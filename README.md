@@ -17,7 +17,8 @@ https://api-timestamp-fcc-mg.herokuapp.com/1450137600
 
 ### Preview
 
-![Preview](https://raw.githubusercontent.com/miga89/fcc-api-timestamp/master/images/screencapture.gif)
+
+![Preview](https://github.com/miga89/fcc-api-timestamp/blob/master/images/screecapture.gif)
 
 
 
